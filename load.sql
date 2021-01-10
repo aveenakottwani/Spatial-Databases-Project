@@ -1,0 +1,1 @@
+load from "D:\SEM2\TODB\assignment2\Health_Facility_Certification_Information.csv" of del MESSAGES load.msg INSERT INTO cse532.facilitycertification
